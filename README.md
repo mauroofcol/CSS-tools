@@ -1,2 +1,2 @@
 # Deobfuscated-Tailwind
-The entire Tailwind's code in a human friendly presentation. (Unminified Tailwind, Unpacked Tailwind).
+The entire .CSS Tailwind's code in a human friendly presentation. (Unminified Tailwind, Unpacked Tailwind).
